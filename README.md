@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Josecostasantos
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning Python and Databases
+- 👋 Hi, I’m Jose Costa
+- 👀 I’m interested in learning to program in Python
+- 🌱 I’m currently learning Databases
 
 <!---
 Josecostasantos/Josecostasantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
